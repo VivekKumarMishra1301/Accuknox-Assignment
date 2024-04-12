@@ -7,9 +7,20 @@
  
 }
 
-.nav{
+.nav {
    max-width: 1280px;
   margin: 0 auto;
     /* background-color: #0e1630; */
    text-align: center;
+}
+.app{
+   max-width: 1280px;
+     margin: 0 auto;
+    /* background-color: #0e1630; */
+   text-align: center;
+  
+}
+.services{
+  text-decoration: none;
+  color:white;
 }
