@@ -1,0 +1,15 @@
+ .header {
+  position:sticky;
+  background-color: #0e1630;
+  /* padding: 0rem; */
+  z-index: 1000; 
+  top:0;
+ 
+}
+
+.nav{
+   max-width: 1280px;
+  margin: 0 auto;
+    /* background-color: #0e1630; */
+   text-align: center;
+}
